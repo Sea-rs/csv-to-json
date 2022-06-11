@@ -1,0 +1,22 @@
+{
+    "prop1": "text1",
+    "prop2": [
+        {
+            "prop3": "text2"
+        }
+    ],
+    "prop4": {
+        "prop5": "text3"
+    },
+    "prop6": [
+        {
+            "prop7": "text4",
+            "prop8": [
+                1,
+                2,
+                3,
+                "text5"
+            ]
+        }
+    ]
+}
